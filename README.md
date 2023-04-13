@@ -1,3 +1,3 @@
-# Curr-culo
-#HTML
+# Curriculo
+# HTML
 # CSS
